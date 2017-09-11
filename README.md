@@ -8,7 +8,7 @@ Simple Demo application to load webview in Swift 3 with progressbar
 * iOS 8.0 or above.
 
 
-https://github.com/milanpanchal/WebKitExample/blob/master/Screenshots/WKWebKitExample1.png
+![image](https://github.com/milanpanchal/WebKitExample/blob/master/Screenshots/WKWebKitExample1.png)
 
 
 ## Communication
